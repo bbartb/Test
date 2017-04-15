@@ -13,8 +13,8 @@ class Singletone{
                     unikat = new Singletone();
             }
         
-        System.out.println("0.1.2");
-        System.out.println("0.1.2");
+        System.out.println("0.2.1B");
+        System.out.println("0.2.1B");
         return unikat;
     }
 }
